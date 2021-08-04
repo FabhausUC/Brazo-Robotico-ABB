@@ -6,14 +6,17 @@ Creacion de herramientas para Brazo Robotico ABB IRB-2600.
 - Trazos de objetos con fotografia de larga exposicion
 - Manipulador de Resina Ecoflex 0030
 Soft Gripper, primeros modelos extraidos de http://www.iaacblog.com/programs/soft-robotic-gripper/
+
 Para fabricar el soft gripper se necesitan los siguientes elementos.
  * Ecoflex 0030
  * Tela 
- * Tijeras
+ * Tijeras y/o Visturi
  * Pesa
- * Vasos 
- * algun utensilio de plastico para mezclar
+ * Vasos
+ * Algun utensilio de plastico para mezclar
+ 
  ![WhatsApp Image 2021-08-04 at 11 33 29](https://user-images.githubusercontent.com/81983482/128215815-1b8496ca-f916-4e07-a53a-9614cb3530d3.jpeg)
+ ![WhatsApp Image 2021-08-04 at 11 33 38](https://user-images.githubusercontent.com/81983482/128216096-241313bb-1122-4bd0-a033-ee0164e39669.jpeg)
 
 - Succionador DIY PLA
 - Extrusora de Arcilla Wasp
